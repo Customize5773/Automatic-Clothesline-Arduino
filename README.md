@@ -10,7 +10,6 @@ The system responds to these conditions by driving a 28BYJ-48 stepper motor, con
 
 This autonomous system offers hands-free operation, reduces the need for constant weather-checking, and provides peace of mind by ensuring your clothes stay dry even when you're away. Designed to be simple yet robust, the project is ideal for home automation enthusiasts, eco-conscious individuals, and anyone looking to enhance convenience through smart technology.
 
-Whether you’re a beginner exploring Arduino or a seasoned maker interested in smart weather-responsive systems, the Automatic Clothesline is a rewarding and practical project to build and expand upon.
 ---
 
 ## 🌟 Features
