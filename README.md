@@ -108,11 +108,9 @@ The system continuously monitors the environment. When adverse conditions are de
 
 ---
 
-## 🧪 Testing
+## 🧪 Simulation 
 
-* 🌧️ Simulate rain using water droplets on the YL-83 sensor and verify retraction.
-* 💦 Breathe or spray near DHT11 to simulate high humidity and observe behavior.
-* 🌤️ Remove environmental triggers and confirm automatic extension.
+![Chart Data](https://github.com/user-attachments/assets/d74c27e1-97af-4e1d-a64a-d756e883b37e)
 
 ---
 
